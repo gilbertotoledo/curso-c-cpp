@@ -1,0 +1,5 @@
+5 camisa_azul 39.90
+3 calca_jeans 49.90
+0 bermuda_microfibra 25.90
+2 jaqueta_moleton 59.90
+3 camiseta_verde 29.90

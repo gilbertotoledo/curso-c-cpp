@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1403572873 source:c:\vídeo aulas\cursos\programação em c e c++\projetos\aula 41 a 50\projeto40\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

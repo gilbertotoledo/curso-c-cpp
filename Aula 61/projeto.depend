@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1411954854 source:c:\vídeo aulas\cursos\programação em c e c++\sem sequencia\aula x - simulador de extrato bancário\projeto\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

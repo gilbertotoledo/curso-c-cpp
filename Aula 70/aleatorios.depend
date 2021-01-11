@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459346390 source:c:\codeblocks\aleatorios\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+

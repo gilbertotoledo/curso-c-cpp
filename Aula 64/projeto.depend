@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1416283734 source:c:\vídeo aulas\cursos\programação em c e c++\aula 61 a 70\aula 64 - entendendo e corrigindo erros\projeto\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

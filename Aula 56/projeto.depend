@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411697233 source:c:\vídeo aulas\cursos\programação em c e c++\sem sequencia\aula x - meses em strings e numeros\projeto\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1437696762 source:f:\pessoal\vídeo aulas\a editar\aula x - dúvidas e leitura de arquivo txt\projeto\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

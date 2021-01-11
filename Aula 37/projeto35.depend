@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400547580 source:c:\vídeo aulas\projetos\criptografia\projeto35\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

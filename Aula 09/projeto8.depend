@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1369926290 source:c:\vídeo aulas\projetos\projeto8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

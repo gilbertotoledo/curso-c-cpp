@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501123139 source:d:\developer\codeblocks\tempoexecucao\main.c
+	<stdio.h>
+	<time.h>
+

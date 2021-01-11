@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1404869083 source:c:\vídeo aulas\cursos\programação em c e c++\projetos\aula 41 a 50\projeto42\main.cpp
+	<iostream>
+	"tipo_aluno.h"
+
+1404868716 c:\vídeo aulas\cursos\programação em c e c++\projetos\aula 41 a 50\projeto42\tipo_aluno.h
+
+1404869192 source:c:\vídeo aulas\cursos\programação em c e c++\projetos\aula 41 a 50\projeto42\tipo_aluno.cpp
+	"tipo_aluno.h"
+	<string.h>
+

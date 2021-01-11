@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1373325179 source:c:\vídeo aulas\projetos\projeto10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

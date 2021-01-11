@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459137372 source:c:\codeblocks\megasena\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
